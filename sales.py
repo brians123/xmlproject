@@ -2,6 +2,8 @@ import csv
 salesDict = {}
 
 #a commment
+# add another comment
+
 def main():
     salesReader()
     #printSummaryReport()
