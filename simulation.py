@@ -18,6 +18,7 @@ doctordict["Dr Thai"]=doclist1
 doctordict["Dr Philip"]=doclist2
 doctordict["Dr Adrian"]=doclist3
 
+#modify this for github
 def main():
     cleanuplog()
     patientSetUp()
